@@ -6,8 +6,7 @@ target 'DrawerMenu' do
   # use_frameworks!
 
   # Pods for DrawerMenu
-pod 'SideMenu', '~> 4.0.0'
-
+pod 'SideMenu'
   target 'DrawerMenuTests' do
     inherit! :search_paths
     # Pods for testing
