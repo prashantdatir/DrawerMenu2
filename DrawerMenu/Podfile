@@ -7,6 +7,16 @@ target 'DrawerMenu' do
 
   # Pods for DrawerMenu
 pod 'SideMenu'
+pod "TPKeyboardAvoidingSwift"
+pod 'SVProgressHUD'
+pod 'GoogleMaps'
+pod 'GooglePlaces'
+pod 'MagicalRecord'
+pod 'Cosmos'
+pod 'IQKeyboardManagerSwift'
+pod 'SkyFloatingLabelTextField'
+
+
   target 'DrawerMenuTests' do
     inherit! :search_paths
     # Pods for testing
